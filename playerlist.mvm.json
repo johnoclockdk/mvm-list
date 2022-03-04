@@ -6,7 +6,7 @@
 		],
 		"description": "mvm",
 		"title": "mvm",
-		"update_url": "https://gist.githubusercontent.com/wgetJane/0bc01bd46d7695362253c5a2fa49f2e9/raw/playerlist.biglist.json"
+		"update_url": "https://raw.githubusercontent.com/johnoclockdk/mvm-list/main/playerlist.mvm.json"
 	},
 	"players": [
 		{
