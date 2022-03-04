@@ -4,8 +4,8 @@
 		"authors": [
 			"johnoclockdk"
 		],
-		"description": "mvm",
-		"title": "mvm",
+		"description": "mvm list for tacos/cheater",
+		"title": "Mvm list",
 		"update_url": "https://raw.githubusercontent.com/johnoclockdk/mvm-list/main/playerlist.mvm.json"
 	},
 	"players": [
