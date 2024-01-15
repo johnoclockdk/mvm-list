@@ -62,6 +62,12 @@
                 "cheater"
             ],
             "steamid": "[U:1:NEW_STEAM_ID]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "steamid": "[U:1:NEW_STEAM_ID]"
         }
     ]
 }
